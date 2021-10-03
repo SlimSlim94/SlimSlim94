@@ -1,0 +1,26 @@
+header{
+    background-image: linear-gradient(red,rebeccapurple);
+}
+.topnav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    overflow: hidden;
+    font-family:"Book Antiqua";
+}
+.topnav a:hover {
+    color: red;
+}
+
+.topnav a:active{
+    color: rebeccapurple;
+}
+body {
+    background-image: url("images/space.jpg");
+}
+
+.title h1 {
+    color: azure;
+    font-family: "Book Antiqua";
+
+}
