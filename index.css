@@ -17,6 +17,8 @@ header{
 }
 body {
     background-image: url("images/space.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .title h1 {
